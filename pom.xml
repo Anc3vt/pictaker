@@ -5,7 +5,7 @@
 
 	<groupId>ru.ancevt.desktoputils</groupId>
 	<artifactId>pictaker</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<packaging>jar</packaging>
 
 	<name>picsender</name>
